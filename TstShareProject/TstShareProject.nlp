@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=TstShareProject
+project.version=8.1
+project.original.version=8.1
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=7.5.0
+product.original.version=7.5.0
+project.id=18a934bf-c637-4a83-b00a-f2eaef77c03d
+project.config.path=team
+project.config.storage=XML_MULTI
+team.server.enabled=false
